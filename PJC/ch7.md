@@ -5,7 +5,7 @@ Keras를 통한 NLP 개요
     - Text를 token으로 변환
 - pad_sequence()
     - 훈련 데이터 간 길이를 통일
-    - 짧을 경우 앞 혹은 뒤를 임의의 값(ex 0)으로 채움
+    - 짧을 경우 앞 혹은 뒤를 임의의 값(ex. 0)으로 채움
     - 길이가 길 경우 앞 혹은 뒷부분을 자름
 2. 워드 임베딩(Word Embedding)
 - Embedding()
