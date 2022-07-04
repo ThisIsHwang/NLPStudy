@@ -20,7 +20,7 @@ Keras를 통한 NLP 개요
     - model의 정보를 요약해서 보여줌
 4. 컴파일과 훈련(Compile and Training)
 - compile()
-    - optimizer, loss function, training monitoring method 설종
+    - optimizer, loss function, metric 설정
 - fit()
     - 입출력 데이터, epoch, batch_size 설정 후 train
     - validation_data 설정 가능
